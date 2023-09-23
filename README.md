@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivy-christopher&label=Profile%20views&color=0e75b6&style=flat" alt="ivy-christopher" /> </p>
 
-- 🔭 I’m currently working on [Minecraft Mods](https://github.com/IVY-CHRISTOPHER/minecraft_test_mod) and [Random Projects](https://github.com/IVY-CHRISTOPHER/MadLibs)
+- 🔭 I’m currently working on [Minecraft Mods](https://github.com/IVY-CHRISTOPHER/minecraft_test_mod) and [Random Projects](https://github.com/IVY-CHRISTOPHER/MadLibs) as well as [Project-Alpha](https://github.com/IVY-CHRISTOPHER/project-alpha-dev)
 
 - 🌱 I’m currently learning **Projects and Algorithms**
 
