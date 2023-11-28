@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Random Projects](https://github.com/IVY-CHRISTOPHER/MadLibs) as well as [Project-Alpha](https://github.com/IVY-CHRISTOPHER/project-alpha-dev)
   
-- 🌱 I’m currently **Job Searching**
+- 🌱 I’m currently **Learning C#**
 
-- 💬 Ask me about **MERN, JAVA, and Python**
+- 💬 Ask me about **MERN, JAVA, Python, and C#**
 
 - 📫 How to reach me **chrisivy22703@gmail.com**
 
